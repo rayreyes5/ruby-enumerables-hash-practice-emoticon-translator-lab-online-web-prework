@@ -1,5 +1,5 @@
 # require modules here
-emoticons => 
+load_library = > emoticons.yml
 def load_library
   # code goes here
 end
