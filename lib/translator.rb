@@ -1,5 +1,5 @@
 # require modules here
-
+hash = {"get_emoticon" => {}}
 def load_library
   # code goes here
 end
